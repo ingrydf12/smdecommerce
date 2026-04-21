@@ -1,7 +1,9 @@
+DAO\CategoriaDAO.class
 DAO\UsuarioDAO.class
 models\Estoque.class
 config\Config.class
 models\Usuario.class
+models\Categoria.class
 connection\ModuloConexao.class
 controllers\LoginServlet.class
 controllers\LogoutServlet.class

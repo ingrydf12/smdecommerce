@@ -2,6 +2,8 @@ C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\config\Config
 C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\connection\ModuloConexao.java
 C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\controllers\LoginServlet.java
 C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\controllers\LogoutServlet.java
+C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\DAO\CategoriaDAO.java
 C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\DAO\UsuarioDAO.java
+C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\models\Categoria.java
 C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\models\Estoque.java
 C:\Users\INGRYD\Desktop\UFC\S5\Prog. Web I\E2-ingryd\src\main\java\models\Usuario.java
